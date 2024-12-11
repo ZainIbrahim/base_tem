@@ -201,3 +201,7 @@ var SidebarModule = (function() {
         },
     };
 })();
+
+/*
+this is to check if the files are different
+*/
